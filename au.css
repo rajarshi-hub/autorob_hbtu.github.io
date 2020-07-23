@@ -1,0 +1,172 @@
+input,
+textarea,
+button,
+select,
+paragraph,
+heading,
+horizontal line,
+a {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body{
+      padding: 3px;  
+       margin: 3px;
+       border: 3px;
+}
+.ji{
+    font-size:23px;
+}
+button {
+border: none;
+    background-color: aqua;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+    font-family: fantasy;
+}
+.cr
+{
+    background-color:black;
+    color: white;
+    font-size: 17px;
+    
+}
+.yy{
+    background-color:greenyellow;
+}
+.reg{
+    text-align: center;
+    background-color:red;
+    font-family: monospace;
+    color:black;
+    font-size: 20px;
+}
+.stic{
+    top:0;
+    position:fixed;
+    width:100%;
+}
+.s
+{
+    color:aqua;
+    text-align: center;
+}
+.he{
+    text-align: center;
+    color:white;
+}
+.tup{
+    background-image: url(co.jpg);
+    color:yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.z{
+    color:aqua;
+    font-family:monospace;
+    font-size:40px;
+}
+.tel{
+    color:white;
+    font-size:20px;
+}
+.x{
+    text-align: center;
+    background-color: black;
+    background-image: url("hbt.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.tips{
+    color: aqua;
+    font-family:cursive;
+    color:chartreuse;
+    text-decoration: underline;
+}
+.yip
+{
+    background-image: url(btn.jpg);
+}
+.n{
+    border-top: 4px bold black;
+}
+.sti{
+    text-align: center;
+    color:blueviolet;
+}
+.pie{
+    text-align: center;
+}
+.exe{
+    text-align: center;
+    color:green;
+}
+.st{
+    font-family: inherit;
+    color:wheat;
+    text-align: center;
+    text-decoration: underline;
+}
+.did{
+    background-image: url(bk.png);
+    background-attachment: fixed;
+}
+.ti{
+    color:yellow;
+    font-family: monospace;
+    font-size:18px;
+}
+.pi{
+    font-family:inherit;
+    color:white;
+    font-size:20px;
+}
+.to{
+    color:red;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+li{
+display:inline;
+    border-right: 1px solid black;
+    background-color: aqua;
+
+}
+o1{
+    background-color: yellow;
+}
+.easy{
+    font-family: cursive;
+    background-color: black;
+    color:aqua;
+    text-align: center;
+}
+.yo{
+    text-align:center;
+    color:white;
+    font-family:cursive;
+    text-decoration: underline;
+}
+.lo{
+    background-image: url(rt.jpg);
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+    background-repeat:no-repeat;
+  background-attachment:fixed;
+    background-color: black;
+    
+}
+.tu
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    color:aqua;
+}
