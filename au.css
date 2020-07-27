@@ -72,7 +72,7 @@ border: none;
 }
 .tel{
     color:white;
-    font-size:20px;
+    font-size: 18px;
 }
 .x{
     text-align: center;
@@ -149,8 +149,7 @@ o1{
 .yo{
     text-align:center;
     color:white;
-    font-family:cursive;
-    text-decoration: underline;
+    font-family:"Comic Sans MS", cursive, sans-serif;
 }
 .lo{
     background-image: url(rt.jpg);
